@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SIpgate:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SIpgate_jar</output-path>
+    <root id="archive" name="SIpgate.jar">
+      <element id="module-output" name="SIpgate" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Gson/gson-2.8.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
